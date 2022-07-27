@@ -7,7 +7,7 @@ nums =[int(num) for num in nums] # strings to ints
 
 #len(nums)
 numCopy = nums.copy() # make a copy just in case
-countNums = [] # create an empty list
+#countNums = [] # create an empty list
 
 highestNum = nums[0] # placeholder
 
