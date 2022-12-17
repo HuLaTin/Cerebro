@@ -1,4 +1,5 @@
 # my attempt at making some sort of randomness
+# I'd like to find a way to test how useful/random this is
 
 randPlaces = 4 # how many places?
 DIGITS = 10000 # how many digits of pi
